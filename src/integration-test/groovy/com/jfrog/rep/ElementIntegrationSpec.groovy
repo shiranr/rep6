@@ -7,7 +7,7 @@ import spock.lang.Specification
  * Created by shiranr on 10/04/2016.
  */
 @Integration
-class ChildElementIntegrationSpec extends Specification {
+class ElementIntegrationSpec extends Specification {
 
     def 'add attribute - refresh throws NPE'() {
         setup:
